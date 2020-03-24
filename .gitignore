@@ -1,0 +1,9 @@
+.DS_Store
+# Ignore All Environment files
+env.h
+env
+.env
+Firebase-Notebook-Visualization/\.ipynb_checkpoints/Visualization Data Sensors-checkpoint\.ipynb
+.idea
+
+Firebase-Notebook-Visualization/\.ipynb_checkpoints/
